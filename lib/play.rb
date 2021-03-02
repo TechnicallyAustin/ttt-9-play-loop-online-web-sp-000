@@ -40,7 +40,7 @@ def play
   display_board(board)
   9.times.do 
     puts "Please enter 1-9: "
-    turn(board
+    turn(board)
   
  
   
